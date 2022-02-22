@@ -3,7 +3,7 @@
 
   <p> 게임화면
     <img src = "https://user-images.githubusercontent.com/67617475/155063599-5cabdf6c-2573-4d42-9b5f-a9e2f10d19a8.png" >
-  <a> 1. 게임 시작화면으로, 게임 설명화면 제시 </a>
+  <p> 1. 게임 시작화면으로, 게임 설명화면 제시 </p>
   <p> 2. 노래 및 난이도를 방향키로 설정하여, 게임 시작 </p>
   <p> 3. 점수, 콤보, 체력이 보이며, 게임을 진행 ( 1절 약 1분 30초가량) </p>
   <img src = "https://user-images.githubusercontent.com/67617475/155066078-3bfd85f3-e9c0-458e-a859-c8f24e9b2e74.png">
